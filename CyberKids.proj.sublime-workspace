@@ -1,0 +1,818 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "CyberKids/settings.py",
+			"settings":
+			{
+				"buffer_size": 3299,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAADkMAAAAAAAAOgwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA5DAAAAAAAADkMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					1,
+					"paste",
+					null,
+					"AQAAADoMAAAAAAAAQwwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA6DAAAAAAAADoMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "ROOT"
+					},
+					"BQAAAEAMAAAAAAAAQQwAAAAAAAAAAAAAQQwAAAAAAABBDAAAAAAAAAMAAABVUkxBDAAAAAAAAEIMAAAAAAAAAAAAAEIMAAAAAAAAQwwAAAAAAAAAAAAAQwwAAAAAAABEDAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABDDAAAAAAAAEAMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAAEQMAAAAAAAARQwAAAAAAAAAAAAARQwAAAAAAABGDAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEDAAAAAAAAEQMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEYMAAAAAAAARwwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABGDAAAAAAAAEYMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					15,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAAEcMAAAAAAAASQwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABHDAAAAAAAAEcMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "//"
+					},
+					"AgAAAEgMAAAAAAAASQwAAAAAAAAAAAAASQwAAAAAAABKDAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABIDAAAAAAAAEgMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "d"
+					},
+					"AQAAAEkMAAAAAAAASgwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABJDAAAAAAAAEkMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					19,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEkMAAAAAAAASQwAAAAAAAABAAAAZA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABKDAAAAAAAAEoMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "media"
+					},
+					"BQAAAEkMAAAAAAAASgwAAAAAAAAAAAAASgwAAAAAAABLDAAAAAAAAAAAAABLDAAAAAAAAEwMAAAAAAAAAAAAAEwMAAAAAAAATQwAAAAAAAAAAAAATQwAAAAAAABODAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABJDAAAAAAAAEkMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAFAMAAAAAAAAUQwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABQDAAAAAAAAFAMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					29,
+					1,
+					"paste",
+					null,
+					"AQAAAFEMAAAAAAAAZwwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABRDAAAAAAAAFEMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					32,
+					1,
+					"insert",
+					{
+						"characters": "STAT"
+					},
+					"BQAAAFEMAAAAAAAAUgwAAAAAAAAAAAAAUgwAAAAAAABSDAAAAAAAAAUAAABNRURJQVIMAAAAAAAAUwwAAAAAAAAAAAAAUwwAAAAAAABUDAAAAAAAAAAAAABUDAAAAAAAAFUMAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABWDAAAAAAAAFEMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "IC"
+					},
+					"AgAAAFUMAAAAAAAAVgwAAAAAAAAAAAAAVgwAAAAAAABXDAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABVDAAAAAAAAFUMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "stat"
+					},
+					"BQAAAGEMAAAAAAAAYgwAAAAAAAAAAAAAYgwAAAAAAABiDAAAAAAAAAUAAABtZWRpYWIMAAAAAAAAYwwAAAAAAAAAAAAAYwwAAAAAAABkDAAAAAAAAAAAAABkDAAAAAAAAGUMAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABmDAAAAAAAAGEMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					37,
+					1,
+					"insert_completion",
+					{
+						"completion": "static",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "static"
+					},
+					"AgAAAGEMAAAAAAAAYQwAAAAAAAAEAAAAc3RhdGEMAAAAAAAAZwwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABlDAAAAAAAAGUMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					47,
+					1,
+					"paste",
+					null,
+					"AgAAAEgMAAAAAAAAbAwAAAAAAAAAAAAAbAwAAAAAAABsDAAAAAAAAAgAAAAvbWVkaWEvJw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABQDAAAAAAAAEgMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					50,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEcMAAAAAAAARwwAAAAAAAABAAAAJw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABIDAAAAAAAAEgMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					53,
+					1,
+					"insert",
+					{
+						"characters": "media"
+					},
+					"BgAAAF8MAAAAAAAAYAwAAAAAAAAAAAAAYAwAAAAAAABgDAAAAAAAAAoAAABkYi5zcWxpdGUzYAwAAAAAAABhDAAAAAAAAAAAAABhDAAAAAAAAGIMAAAAAAAAAAAAAGIMAAAAAAAAYwwAAAAAAAAAAAAAYwwAAAAAAABkDAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABpDAAAAAAAAF8MAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					60,
+					1,
+					"paste",
+					null,
+					"AgAAAHUMAAAAAAAAmQwAAAAAAAAAAAAAmQwAAAAAAACZDAAAAAAAAAoAAAAnL3N0YXRpYy8n",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB/DAAAAAAAAHUMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": "stat"
+					},
+					"BQAAAI0MAAAAAAAAjgwAAAAAAAAAAAAAjgwAAAAAAACODAAAAAAAAAoAAABkYi5zcWxpdGUzjgwAAAAAAACPDAAAAAAAAAAAAACPDAAAAAAAAJAMAAAAAAAAAAAAAJAMAAAAAAAAkQwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACXDAAAAAAAAI0MAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					64,
+					1,
+					"insert",
+					{
+						"characters": "ic"
+					},
+					"AgAAAJEMAAAAAAAAkgwAAAAAAAAAAAAAkgwAAAAAAACTDAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACRDAAAAAAAAJEMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					69,
+					1,
+					"insert",
+					{
+						"characters": "$"
+					},
+					"AQAAAAsMAAAAAAAADAwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAALDAAAAAAAAAsMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					70,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAsMAAAAAAAACwwAAAAAAAABAAAAJA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAMDAAAAAAAAAwMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					71,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAAsMAAAAAAAADAwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAALDAAAAAAAAAsMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					72,
+					1,
+					"insert",
+					{
+						"characters": " url"
+					},
+					"BAAAAAwMAAAAAAAADQwAAAAAAAAAAAAADQwAAAAAAAAODAAAAAAAAAAAAAAODAAAAAAAAA8MAAAAAAAAAAAAAA8MAAAAAAAAEAwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAMDAAAAAAAAAwMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					73,
+					1,
+					"insert",
+					{
+						"characters": " фдре"
+					},
+					"BQAAABAMAAAAAAAAEQwAAAAAAAAAAAAAEQwAAAAAAAASDAAAAAAAAAAAAAASDAAAAAAAABMMAAAAAAAAAAAAABMMAAAAAAAAFAwAAAAAAAAAAAAAFAwAAAAAAAAVDAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAQDAAAAAAAABAMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					74,
+					1,
+					"insert",
+					{
+						"characters": "с"
+					},
+					"AQAAABUMAAAAAAAAFgwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAVDAAAAAAAABUMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					75,
+					5,
+					"left_delete",
+					null,
+					"BQAAABUMAAAAAAAAFQwAAAAAAAACAAAA0YEUDAAAAAAAABQMAAAAAAAAAgAAANC1EwwAAAAAAAATDAAAAAAAAAIAAADRgBIMAAAAAAAAEgwAAAAAAAACAAAA0LQRDAAAAAAAABEMAAAAAAAAAgAAANGE",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAWDAAAAAAAABYMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					76,
+					1,
+					"insert",
+					{
+						"characters": "адресса"
+					},
+					"BwAAABEMAAAAAAAAEgwAAAAAAAAAAAAAEgwAAAAAAAATDAAAAAAAAAAAAAATDAAAAAAAABQMAAAAAAAAAAAAABQMAAAAAAAAFQwAAAAAAAAAAAAAFQwAAAAAAAAWDAAAAAAAAAAAAAAWDAAAAAAAABcMAAAAAAAAAAAAABcMAAAAAAAAGAwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAARDAAAAAAAABEMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					77,
+					1,
+					"insert",
+					{
+						"characters": " статичес"
+					},
+					"CQAAABgMAAAAAAAAGQwAAAAAAAAAAAAAGQwAAAAAAAAaDAAAAAAAAAAAAAAaDAAAAAAAABsMAAAAAAAAAAAAABsMAAAAAAAAHAwAAAAAAAAAAAAAHAwAAAAAAAAdDAAAAAAAAAAAAAAdDAAAAAAAAB4MAAAAAAAAAAAAAB4MAAAAAAAAHwwAAAAAAAAAAAAAHwwAAAAAAAAgDAAAAAAAAAAAAAAgDAAAAAAAACEMAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAYDAAAAAAAABgMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					78,
+					1,
+					"insert",
+					{
+						"characters": "ких"
+					},
+					"AwAAACEMAAAAAAAAIgwAAAAAAAAAAAAAIgwAAAAAAAAjDAAAAAAAAAAAAAAjDAAAAAAAACQMAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAhDAAAAAAAACEMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					79,
+					1,
+					"insert",
+					{
+						"characters": " файлов"
+					},
+					"BwAAACQMAAAAAAAAJQwAAAAAAAAAAAAAJQwAAAAAAAAmDAAAAAAAAAAAAAAmDAAAAAAAACcMAAAAAAAAAAAAACcMAAAAAAAAKAwAAAAAAAAAAAAAKAwAAAAAAAApDAAAAAAAAAAAAAApDAAAAAAAACoMAAAAAAAAAAAAACoMAAAAAAAAKwwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAkDAAAAAAAACQMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					80,
+					1,
+					"insert",
+					{
+						"characters": " и"
+					},
+					"AgAAACsMAAAAAAAALAwAAAAAAAAAAAAALAwAAAAAAAAtDAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAArDAAAAAAAACsMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					81,
+					1,
+					"insert",
+					{
+						"characters": " медии"
+					},
+					"BgAAAC0MAAAAAAAALgwAAAAAAAAAAAAALgwAAAAAAAAvDAAAAAAAAAAAAAAvDAAAAAAAADAMAAAAAAAAAAAAADAMAAAAAAAAMQwAAAAAAAAAAAAAMQwAAAAAAAAyDAAAAAAAAAAAAAAyDAAAAAAAADMMAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAtDAAAAAAAAC0MAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					87,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAGEMAAAAAAAAYgwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABhDAAAAAAAAGEMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					88,
+					1,
+					"paste",
+					null,
+					"AQAAAGIMAAAAAAAAigwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABiDAAAAAAAAGIMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					91,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGQMAAAAAAAAZAwAAAAAAABEAAAAdXJsINCw0LTRgNC10YHRgdCwINGB0YLQsNGC0LjRh9C10YHQutC40YUg0YTQsNC50LvQvtCyINC4INC80LXQtNC40Lg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACKDAAAAAAAAGQMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					92,
+					1,
+					"insert",
+					{
+						"characters": "папки"
+					},
+					"BQAAAGQMAAAAAAAAZQwAAAAAAAAAAAAAZQwAAAAAAABmDAAAAAAAAAAAAABmDAAAAAAAAGcMAAAAAAAAAAAAAGcMAAAAAAAAaAwAAAAAAAAAAAAAaAwAAAAAAABpDAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABkDAAAAAAAAGQMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					93,
+					1,
+					"insert",
+					{
+						"characters": " где"
+					},
+					"BAAAAGkMAAAAAAAAagwAAAAAAAAAAAAAagwAAAAAAABrDAAAAAAAAAAAAABrDAAAAAAAAGwMAAAAAAAAAAAAAGwMAAAAAAAAbQwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABpDAAAAAAAAGkMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					94,
+					1,
+					"insert",
+					{
+						"characters": " храня"
+					},
+					"BgAAAG0MAAAAAAAAbgwAAAAAAAAAAAAAbgwAAAAAAABvDAAAAAAAAAAAAABvDAAAAAAAAHAMAAAAAAAAAAAAAHAMAAAAAAAAcQwAAAAAAAAAAAAAcQwAAAAAAAByDAAAAAAAAAAAAAByDAAAAAAAAHMMAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABtDAAAAAAAAG0MAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					95,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHIMAAAAAAAAcgwAAAAAAAACAAAA0Y8",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABzDAAAAAAAAHMMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					96,
+					1,
+					"insert",
+					{
+						"characters": "ится"
+					},
+					"BAAAAHIMAAAAAAAAcwwAAAAAAAAAAAAAcwwAAAAAAAB0DAAAAAAAAAAAAAB0DAAAAAAAAHUMAAAAAAAAAAAAAHUMAAAAAAAAdgwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAByDAAAAAAAAHIMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					97,
+					1,
+					"insert",
+					{
+						"characters": " медия"
+					},
+					"BgAAAHYMAAAAAAAAdwwAAAAAAAAAAAAAdwwAAAAAAAB4DAAAAAAAAAAAAAB4DAAAAAAAAHkMAAAAAAAAAAAAAHkMAAAAAAAAegwAAAAAAAAAAAAAegwAAAAAAAB7DAAAAAAAAAAAAAB7DAAAAAAAAHwMAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB2DAAAAAAAAHYMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					98,
+					1,
+					"insert",
+					{
+						"characters": " и"
+					},
+					"AgAAAHwMAAAAAAAAfQwAAAAAAAAAAAAAfQwAAAAAAAB+DAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB8DAAAAAAAAHwMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					99,
+					1,
+					"insert",
+					{
+						"characters": " статика"
+					},
+					"CAAAAH4MAAAAAAAAfwwAAAAAAAAAAAAAfwwAAAAAAACADAAAAAAAAAAAAACADAAAAAAAAIEMAAAAAAAAAAAAAIEMAAAAAAAAggwAAAAAAAAAAAAAggwAAAAAAACDDAAAAAAAAAAAAACDDAAAAAAAAIQMAAAAAAAAAAAAAIQMAAAAAAAAhQwAAAAAAAAAAAAAhQwAAAAAAACGDAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB+DAAAAAAAAH4MAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					102,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAGEMAAAAAAAAYgwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABhDAAAAAAAAGEMAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "CyberKids/urls.py",
+			"settings":
+			{
+				"buffer_size": 1130,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "№"
+					},
+					"AQAAAKsDAAAAAAAArAMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACrAwAAAAAAAKsDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					4,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKsDAAAAAAAAqwMAAAAAAAADAAAA4oSW",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACsAwAAAAAAAKwDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "#наст"
+					},
+					"BQAAAKsDAAAAAAAArAMAAAAAAAAAAAAArAMAAAAAAACtAwAAAAAAAAAAAACtAwAAAAAAAK4DAAAAAAAAAAAAAK4DAAAAAAAArwMAAAAAAAAAAAAArwMAAAAAAACwAwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACrAwAAAAAAAKsDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "ройки"
+					},
+					"BQAAALADAAAAAAAAsQMAAAAAAAAAAAAAsQMAAAAAAACyAwAAAAAAAAAAAACyAwAAAAAAALMDAAAAAAAAAAAAALMDAAAAAAAAtAMAAAAAAAAAAAAAtAMAAAAAAAC1AwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACwAwAAAAAAALADAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": " для"
+					},
+					"BAAAALUDAAAAAAAAtgMAAAAAAAAAAAAAtgMAAAAAAAC3AwAAAAAAAAAAAAC3AwAAAAAAALgDAAAAAAAAAAAAALgDAAAAAAAAuQMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC1AwAAAAAAALUDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": " хранен"
+					},
+					"BwAAALkDAAAAAAAAugMAAAAAAAAAAAAAugMAAAAAAAC7AwAAAAAAAAAAAAC7AwAAAAAAALwDAAAAAAAAAAAAALwDAAAAAAAAvQMAAAAAAAAAAAAAvQMAAAAAAAC+AwAAAAAAAAAAAAC+AwAAAAAAAL8DAAAAAAAAAAAAAL8DAAAAAAAAwAMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC5AwAAAAAAALkDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "ия"
+					},
+					"AgAAAMADAAAAAAAAwQMAAAAAAAAAAAAAwQMAAAAAAADCAwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADAAwAAAAAAAMADAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": " по"
+					},
+					"AwAAAMIDAAAAAAAAwwMAAAAAAAAAAAAAwwMAAAAAAADEAwAAAAAAAAAAAADEAwAAAAAAAMUDAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADCAwAAAAAAAMIDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": " ссылкам"
+					},
+					"CAAAAMUDAAAAAAAAxgMAAAAAAAAAAAAAxgMAAAAAAADHAwAAAAAAAAAAAADHAwAAAAAAAMgDAAAAAAAAAAAAAMgDAAAAAAAAyQMAAAAAAAAAAAAAyQMAAAAAAADKAwAAAAAAAAAAAADKAwAAAAAAAMsDAAAAAAAAAAAAAMsDAAAAAAAAzAMAAAAAAAAAAAAAzAMAAAAAAADNAwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADFAwAAAAAAAMUDAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Projects/CyberKids/CyberKids",
+		"/D/Projects/CyberKids/CyberKids/books",
+		"/D/Projects/CyberKids/CyberKids/books/templates",
+		"/D/Projects/CyberKids/CyberKids/books/templates/books",
+		"/D/Projects/CyberKids/CyberKids/CyberKids"
+	],
+	"file_history":
+	[
+		"/C/Users/Admin/AppData/Roaming/Sublime Text/Packages/SublimeREPL/SublimeREPL.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "CyberKids/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3170,
+								3170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 864.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "CyberKids/urls.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1130,
+								1130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "CyberKids.proj.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
